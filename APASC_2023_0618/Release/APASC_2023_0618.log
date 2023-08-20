@@ -1,0 +1,14 @@
+﻿  APASC.c
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(5): warning C4101: 'del_step': 未參考的區域變數
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(230): warning C4101: 'half_n': 未參考的區域變數
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(230): warning C4101: 'i': 未參考的區域變數
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(393): warning C4244: '=': 將 'double' 轉換為 'intType'，由於類型不同，可能導致資料遺失
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(395): warning C4244: '=': 將 'double' 轉換為 'intType'，由於類型不同，可能導致資料遺失
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(442): warning C4101: 'idx': 未參考的區域變數
+c:\users\kuanc\desktop\step_count\code\c\apasc_2023_0618\apasc_2023_0618\apasc.c(534): warning C4101: 'k': 未參考的區域變數
+  main.c
+  ScriptIO.c
+  正在產生程式碼
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  APASC_2023_0618.vcxproj -> C:\Users\kuanc\Desktop\step_count\code\C\APASC_2023_0618\Release\APASC_2023_0618.exe
