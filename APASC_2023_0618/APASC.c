@@ -1,5 +1,6 @@
 #include "APASC.h"
 
+// ref : Z.-E Xu, “Accelerometer-based accurate step counting algorithm,” Master, Department of Mechanical Engineering, National Central University, Taoyuan, 2023. https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC110323073%22.&searchmode=basic
 intType APASC(intType n, intType nbin, RealType *acc_comp, RealType *IIR_wrk, RealType *CA, RealType *CB, RealType *acf, EUL *Eul_ptr, SSTAMP *Sstamp_ptr, intType *GminTable, RealType *acc_temp, intType cwin, intType firstCal, intType lastCal) {
 
 	intType bgnPt_acc, bgnBin_acc, bgnBin_acf, phyBgnBin, phyEndBin, compBgnPt, bgnBin, endBin, Win_step, del_step;
